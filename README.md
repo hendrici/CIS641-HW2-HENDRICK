@@ -7,4 +7,4 @@
 ## Technical Background
 I completed my undergraduate studies in computer engineering here at Grand Valley and worked at a small engineering firm called Phase 1 Engineering for three semesters of co-op. There I mainly worked on embedded systems using C and Python, simple circuit and PCB design, and solder-work when debugging/creating electrical systems.
 
-![meme](https://blog.zegocloud.com/wp-content/uploads/2024/02/programming-meme-1.jpg)
+![meme](https://i.redd.it/r7s3anvqqim81.png)
